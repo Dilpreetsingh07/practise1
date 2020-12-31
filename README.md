@@ -1,1 +1,2 @@
-# practise1
+# collisionAlgorithm
+Algorithm to detect collision between two objects
